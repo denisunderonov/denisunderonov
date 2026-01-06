@@ -1,28 +1,8 @@
 <div align="center">
 
-# 👋 Привет! Я Денис Андронов
-
-### Full-Stack Developer | Энтузиаст алгоритмов | Создатель проектов
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&width=600&lines=Full-Stack+разработчик;Python+%7C+JavaScript+%7C+TypeScript;React+%7C+Node.js+%7C+PHP;MySQL+%7C+PostgreSQL;Всегда+учусь+чему-то+новому!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&width=600&lines=Пытаюсь+в+разработку;Я+хочу+спать!)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 🚀 Обо мне
-
-```typescript
-const denis = {
-    location: "🌍 Россия",
-    education: "🎓 Студент",
-    currentFocus: "💡 Full-Stack разработка и алгоритмы",
-    interests: ["Web Development", "Telegram Bots", "Data Structures", "UI/UX"],
-    funFact: "🎯 Решаю задачи на LeetCode каждый день!"
-};
-```
-
----
 
 ## 📊 GitHub Статистика
 
@@ -74,12 +54,6 @@ const denis = {
   <img src="https://img.shields.io/badge/Parcel-E6B800?style=for-the-badge&logo=parcel&logoColor=black" alt="Parcel"/>
 </p>
 
-### Боты & API
-<p align="center">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  <img src="https://img.shields.io/badge/Grammy-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Grammy"/>
-</p>
-
 ---
 
 ## 🏆 LeetCode Статистика
@@ -87,33 +61,6 @@ const denis = {
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/denisunderonov?theme=dark&font=Noto%20Sans&ext=heatmap)
-
-</div>
-
----
-
-## 🎯 Избранные проекты
-
-<div align="center">
-
-[![Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=denisunderonov&repo=mytgbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=C9D1D9)](https://github.com/denisunderonov/mytgbot)
-[![Library System](https://github-readme-stats.vercel.app/api/pin/?username=denisunderonov&repo=tablesEJS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=C9D1D9)](https://github.com/denisunderonov/tablesEJS)
-
-[![News App](https://github-readme-stats.vercel.app/api/pin/?username=denisunderonov&repo=NYT-news-REACT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=C9D1D9)](https://github.com/denisunderonov/NYT-news-REACT)
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=denisunderonov&repo=calculatorVanilaJS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=C9D1D9)](https://github.com/denisunderonov/calculatorVanilaJS)
-
-</div>
-
----
-
-## 🌐 Связаться со мной
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/denisunderonov)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/denisunderonov)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/denisunderonov)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisunderonov@example.com)
 
 </div>
 
@@ -129,31 +76,3 @@ const denis = {
 
 ---
 
-## 💡 Случайная цитата для вдохновения
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Интересные факты
-
-- 🔭 Сейчас работаю над **Full-Stack проектами**
-- �� Изучаю **алгоритмы и структуры данных**
-- 💬 Спроси меня о **React, Node.js, Python**
-- ⚡ Fun fact: **Люблю решать сложные задачи по программированию**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=denisunderonov&color=3B88C3&style=for-the-badge)
-
-### ⭐ Если вам нравятся мои проекты, поставьте звезду!
-
-**"Код — это поэзия в движении"** 💻✨
-
-</div>
