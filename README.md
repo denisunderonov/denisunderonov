@@ -1,5 +1,3 @@
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
   <img
     height="165"
@@ -12,8 +10,6 @@
     alt="Top Languages"
   />
 </p>
-
-<h2 align="center">🧩 LeetCode Progress</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/denisunderonov/">
