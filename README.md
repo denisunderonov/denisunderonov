@@ -12,13 +12,6 @@
 </div>
 
 <div align="center">
-
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api?username=denisunderonov&show_icons=true&theme=github_dark&hide_border=true"
-  alt="GitHub Stats"
-/>
-
 <img
   height="165"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=denisunderonov&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
