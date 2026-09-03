@@ -13,7 +13,7 @@
 <p align="center">
   <img
     width="520"
-    src="https://leetcode-badge-showcase.vercel.app/api?username=denisunderonov&theme=github-dark&border=no-border"
+    src="https://leetcode-badge-showcase.vercel.app/api?username=denisunderonov&theme=github-dark&font=Noto%20Sans&ext=heatmap"
     alt="LeetCode Badges"
   />
 </p>
