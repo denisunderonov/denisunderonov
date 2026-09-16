@@ -22,7 +22,7 @@
 <p align="center">
   <img
     width="520"
-    src="https://vercel.app"
+    src="https://github-readme-stats.vercel.app/api?username=denisunderonov&theme=dark&show_icons=true"
     alt="GitHub Stats"
   />
 </p>
@@ -30,7 +30,7 @@
 <p align="center">
   <img
     width="520"
-    src="https://vercel.app"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisunderonov&theme=dark&layout=compact"
     alt="Top Languages"
   />
 </p>
@@ -38,7 +38,7 @@
 <p align="center">
   <img
     width="520"
-    src="https://demolab.com"
+    src="https://streak-stats.demolab.com/?user=denisunderonov&theme=dark"
     alt="GitHub Streak"
   />
 </p>
@@ -46,7 +46,7 @@
 <p align="center">
   <img
     width="520"
-    src="https://vercel.app"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=denisunderonov&theme=dark"
     alt="WakaTime Stats"
   />
 </p>
