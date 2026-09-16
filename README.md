@@ -18,3 +18,35 @@
   alt="LeetCode Badges"
 />
 </p>
+
+<p align="center">
+  <img
+    width="520"
+    src="https://vercel.app"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="520"
+    src="https://vercel.app"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="520"
+    src="https://demolab.com"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="520"
+    src="https://vercel.app"
+    alt="WakaTime Stats"
+  />
+</p>
