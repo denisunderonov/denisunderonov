@@ -35,10 +35,3 @@
   />
 </p>
 
-<p align="center">
-  <img
-    width="520"
-    src="https://github-readme-stats.vercel.app/api?username=denisunderonov&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-</p>
