@@ -26,4 +26,14 @@
   />
 </p>
 
-https://assets.leetcode.com/static_assets/others/50_1080_1080.png
+<p align="center">
+  <img
+    width="520"
+    src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff88853e-e00d-45d3-9ad3-d74d49ddf375" />
+"
+    alt="Top Languages"
+  />
+</p>
+
+
+
