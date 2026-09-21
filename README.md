@@ -26,3 +26,4 @@
   />
 </p>
 
+https://assets.leetcode.com/static_assets/others/50_1080_1080.png
