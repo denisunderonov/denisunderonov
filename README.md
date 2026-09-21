@@ -29,17 +29,18 @@
 <p align="center">
   <img
     src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
-    alt="Top Languages"
+    alt="LeetCode 50 Days Badge"
+    width="170"
   />
   <img
     src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png"
-    alt="Top Languages"
+    alt="LeetCode Top SQL 50 Badge"
+    width="170"
   />
   <img
     src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png"
-    alt="Top Languages"
+    alt="LeetCode Introduction to Pandas Badge"
+    width="170"
   />
 </p>
-
-
 
