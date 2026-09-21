@@ -28,8 +28,15 @@
 
 <p align="center">
   <img
-    width="520"
     src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
+    alt="Top Languages"
+  />
+  <img
+    src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png"
+    alt="Top Languages"
+  />
+  <img
+    src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png"
     alt="Top Languages"
   />
 </p>
