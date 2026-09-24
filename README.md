@@ -43,10 +43,10 @@
 </p>
 
 <p align="center">
-  <img
+  <a href="https://stepik.org/cert/3350226?lang=en"><img
     src="https://stepik.org/certificate/a1e54b9569716865cbf177249fcd4c23d392668f.png?language=en&resolution=low"
     alt="Certificate"
     width="170"
-  />
+  /></a>
 </p>
 
