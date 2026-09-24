@@ -34,6 +34,7 @@
         alt="LeetCode 50 Days Badge"
         width="150"
       />
+      LC Streak
     </td>
     <td align="center" width="33%">
       <img
@@ -41,6 +42,7 @@
         alt="LeetCode Top SQL 50 Badge"
         width="150"
       />
+      SQL
     </td>
     <td align="center" width="33%">
       <img
@@ -48,7 +50,7 @@
         alt="LeetCode Introduction to Pandas Badge"
         width="150"
       />
-      Текст
+      Pandas
     </td>
   </tr>
 
