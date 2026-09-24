@@ -48,6 +48,7 @@
         alt="LeetCode Introduction to Pandas Badge"
         width="150"
       />
+      Текст
     </td>
   </tr>
 
