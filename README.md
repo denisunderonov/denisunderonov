@@ -26,21 +26,41 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
-    alt="LeetCode 50 Days Badge"
-    width="170"
-  />
-  <img
-    src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png"
-    alt="LeetCode Top SQL 50 Badge"
-    width="170"
-  />
-  <img
-    src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png"
-    alt="LeetCode Introduction to Pandas Badge"
-    width="170"
-  />
-</p>
+<table align="center" width="520">
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
+        alt="LeetCode 50 Days Badge"
+        width="150"
+      />
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png"
+        alt="LeetCode Top SQL 50 Badge"
+        width="150"
+      />
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png"
+        alt="LeetCode Introduction to Pandas Badge"
+        width="150"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <!-- Следующая награда -->
+    </td>
+    <td align="center">
+      <!-- Следующая награда -->
+    </td>
+    <td align="center">
+      <!-- Следующая награда -->
+    </td>
+  </tr>
+</table>
 
