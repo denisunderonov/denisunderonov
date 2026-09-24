@@ -1,4 +1,4 @@
-
+<img width="655" height="463" alt="image" src="https://github.com/user-attachments/assets/da79375d-8730-4d7d-ab1d-078e1fdf38cd" />
 
 <p align="center">
   <a href="https://leetcode.com/u/denisunderonov/">
@@ -26,44 +26,39 @@
   />
 </p>
 
-<table align="center" width="520">
-  <tr>
-    <td align="center" width="33%">
-      <img
-        src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
-        alt="LeetCode 50 Days Badge"
-        width="150"
-      />
-      LC Streak
-    </td>
-    <td align="center" width="33%">
-      <img
-        src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png"
-        alt="LeetCode Top SQL 50 Badge"
-        width="150"
-      />
-      SQL
-    </td>
-    <td align="center" width="33%">
-      <img
-        src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png"
-        alt="LeetCode Introduction to Pandas Badge"
-        width="150"
-      />
-      Pandas
-    </td>
-  </tr>
+<p align="center">
+  <img
+    src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
+    alt="LeetCode 50 Days Badge"
+    width="170"
+  />
+  <img
+    src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png"
+    alt="LeetCode Top SQL 50 Badge"
+    width="170"
+  />
+  <img
+    src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png"
+    alt="LeetCode Introduction to Pandas Badge"
+    width="170"
+  />
+</p>
 
-  <tr>
-    <td align="center">
-      <!-- Следующая награда -->
-    </td>
-    <td align="center">
-      <!-- Следующая награда -->
-    </td>
-    <td align="center">
-      <!-- Следующая награда -->
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://stepik.org/certificate/a1e54b9569716865cbf177249fcd4c23d392668f.png?language=en&resolution=low"
+    alt="Certificate"
+    width="170"
+  />
+  <img
+    src="ССЫЛКА_НА_СЛЕДУЮЩИЙ_СЕРТИФИКАТ"
+    alt="Certificate"
+    width="170"
+  />
+  <img
+    src="ССЫЛКА_НА_СЛЕДУЮЩИЙ_СЕРТИФИКАТ"
+    alt="Certificate"
+    width="170"
+  />
+</p>
 
