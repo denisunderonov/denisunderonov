@@ -1,5 +1,3 @@
-<img width="655" height="463" alt="image" src="https://github.com/user-attachments/assets/da79375d-8730-4d7d-ab1d-078e1fdf38cd" />
-
 <p align="center">
   <a href="https://leetcode.com/u/denisunderonov/">
     <img
@@ -47,16 +45,6 @@
 <p align="center">
   <img
     src="https://stepik.org/certificate/a1e54b9569716865cbf177249fcd4c23d392668f.png?language=en&resolution=low"
-    alt="Certificate"
-    width="170"
-  />
-  <img
-    src="ССЫЛКА_НА_СЛЕДУЮЩИЙ_СЕРТИФИКАТ"
-    alt="Certificate"
-    width="170"
-  />
-  <img
-    src="ССЫЛКА_НА_СЛЕДУЮЩИЙ_СЕРТИФИКАТ"
     alt="Certificate"
     width="170"
   />
