@@ -54,7 +54,7 @@
     width="170"
   /></a>
   <a href="https://sql-academy.org/ru/check-certificate/6abaafffa747500040eda238?language=en"><img
-    src="https://sql-academy.org/ru/check-certificate/6abaafffa747500040eda238?language=en"
+    src="https://sql-academy.org/api/v1/certificate/content/6abaafffa747500040eda238?language=en"
     alt="Certificate"
     width="170"
   /></a>
