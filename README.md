@@ -63,5 +63,10 @@
     alt="Certificate"
     width="170"
   /></a>
+  <a href="https://sql-academy.org/ru/check-certificate/6acfaee5ba263600465b2d40?language=en"><img
+    src="https://sql-academy.org/api/v1/certificate/content/6acfaee5ba263600465b2d40?language=en"
+    alt="Certificate"
+    width="170"
+  /></a>
 </p>
 
