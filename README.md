@@ -58,5 +58,10 @@
     alt="Certificate"
     width="170"
   /></a>
+  <a href="https://python-academy.org/ru/check-certificate/6acfad40993db1003a9f9ca9?language=en"><img
+    src="https://python-academy.org/api/v1/certificate/content/6acfad40993db1003a9f9ca9?language=en"
+    alt="Certificate"
+    width="170"
+  /></a>
 </p>
 
