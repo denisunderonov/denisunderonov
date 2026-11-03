@@ -10,22 +10,6 @@
 
 <p align="center">
   <img
-    width="520"
-    src="https://streak-stats.demolab.com/?user=denisunderonov&theme=dark"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="520"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=denisunderonov&layout=donut&theme=dark&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=0d1117&langs_count=6"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png"
     alt="LeetCode 50 Days Badge"
     width="170"
